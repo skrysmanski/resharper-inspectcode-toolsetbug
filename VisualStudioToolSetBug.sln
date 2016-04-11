@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualStudioToolSetBug", "VisualStudioToolSetBug\VisualStudioToolSetBug.csproj", "{D53D7993-F3DA-4228-B834-B77CA2B1894C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AsioClientManagedWrapper", "AsioClientManagedWrapper\AsioClientManagedWrapper.vcxproj", "{0707CF4C-28FB-4A8D-B9FE-E3F27EE59392}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D53D7993-F3DA-4228-B834-B77CA2B1894C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D53D7993-F3DA-4228-B834-B77CA2B1894C}.Debug|x64.Build.0 = Debug|Any CPU
+		{D53D7993-F3DA-4228-B834-B77CA2B1894C}.Release|x64.ActiveCfg = Release|Any CPU
+		{D53D7993-F3DA-4228-B834-B77CA2B1894C}.Release|x64.Build.0 = Release|Any CPU
+		{0707CF4C-28FB-4A8D-B9FE-E3F27EE59392}.Debug|x64.ActiveCfg = Debug|x64
+		{0707CF4C-28FB-4A8D-B9FE-E3F27EE59392}.Debug|x64.Build.0 = Debug|x64
+		{0707CF4C-28FB-4A8D-B9FE-E3F27EE59392}.Release|x64.ActiveCfg = Release|x64
+		{0707CF4C-28FB-4A8D-B9FE-E3F27EE59392}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

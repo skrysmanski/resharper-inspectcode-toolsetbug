@@ -1,0 +1,9 @@
+.vs/
+*.user
+AsioClientManagedWrapper/x64/
+VisualStudioToolSetBug.VC.opendb
+*.sdf
+VisualStudioToolSetBug/bin/
+_ReSharper.Caches/
+VisualStudioToolSetBug/obj/
+x64/
